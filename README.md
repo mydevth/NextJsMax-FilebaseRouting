@@ -17,6 +17,10 @@ https://heroicons.com/
 
 https://github.com/mschwarzmueller/nextjs-course-code/tree/03-prj-routing-extra-files/components
 
+### Google font
+
+globals.css
+
 ### build to netlify
 
 netlify.toml at root folder
